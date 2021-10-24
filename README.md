@@ -1,5 +1,8 @@
 # Phylogenomic Interrogation of Ursidae
 
+![NGMI_Panda](Images/Surprised.png)
+"Wow, we don't know how bears are related? We're definitely NGMI..."
+
 ## Pre-Note
 This GitHub repo is a walkthrough of a phylogenomics exploration of the publicly available sequence data for bears [Ursidae]. For evolutionary context, this analysis also includes a few members from the other Caniformia families.
 
